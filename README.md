@@ -111,3 +111,20 @@ by a traumatic event such as sexual abuse, physical abuse, rape, torture, war, m
 PTSD is one of the most problematic
 psychiatric disorders because it is
 directly related to memory which in turn is linked to cognition.
+
+## Positive psychology
+Positive psychology focus on what we should be doing once we feel fairly well.
+
+This means, how should we live our lives once we overcome trauma and other mental problems to keep feeling good.
+
+The people who criticise positive psychology might believe it is naive way and that there simply isn't possible to be happy all the time because all emotions should be part of a healthy life.
+
+This belief is simply false. It is better to be happy then to be sad.
+
+Because of privilege and upbringing
+some people are more happy because
+they have fewer negative memories and better ways to cope with negative emotions.
+
+Life is fundamentally unfair. This sucks but it is something that you have to accept.
+
+At the same time, everyone who made progress in any field made it in the same way. By their actions. 
