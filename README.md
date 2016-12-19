@@ -16,12 +16,18 @@ all adults in the world.
 Symptoms of depression include low mood, negative thoughts and thoughts of suicide.
 
 Depression is a state where the individual suffering believe that
-the way they view the world and themselves is correct.
+the way they view the world and themselves is wrong. Strong negative
+beliefs about themselves or the world, "I'm worthless", "There is no point", "The world is an evil place" might paralyze the person suffering from depression from performing actions that might improve their depression.
+
+State depend memory is also a problem with depression. When we are depressed
+we often only remember other times
+when we are depressed and might wrongfully view our life history as a
+list of failures. 
 
 Depression is present in all cultures. Risk factors include, social isolation, lack of physical exercise, bullying, alcohol or drug abuse, anxiety disorders, personality disorders and unemployment.
 
 The most common treatments for depression is SSRI medication (antidepressants) and behavioral activation (therapy). Physical exercise and mindfulness meditation
-has also been shown to be good ways to cope with depression. 
+has also been shown to be good ways to cope with depression.
 
 ## Anxiety disorders
 Anxiety disorders can be thought
