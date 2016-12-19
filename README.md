@@ -22,12 +22,21 @@ beliefs about themselves or the world, "I'm worthless", "There is no point", "Th
 State depend memory is also a problem with depression. When we are depressed
 we often only remember other times
 when we are depressed and might wrongfully view our life history as a
-list of failures. 
+list of failures.
 
 Depression is present in all cultures. Risk factors include, social isolation, lack of physical exercise, bullying, alcohol or drug abuse, anxiety disorders, personality disorders and unemployment.
 
 The most common treatments for depression is SSRI medication (antidepressants) and behavioral activation (therapy). Physical exercise and mindfulness meditation
 has also been shown to be good ways to cope with depression.
+
+### Behavioral activation
+Behavioral activation works by
+getting the patient to perform more activities in their life. The activities are often things that the
+patients used to enjoy before they became depressed or/and physical exercise.
+
+Behavioral activation is effective
+because the mind is a machine for processing information. By receiving
+more information more computations will be performed and it is more likely that our mind will release neurotransmitters such as dopamine that will heighten our mood.
 
 ## Anxiety disorders
 Anxiety disorders can be thought
@@ -93,3 +102,12 @@ certain degree. Before we travel
 we often check our passport even though we are fairly certain that we have our passport with us.
 
 Other forms of OCD are related to perfectionism and the idea that everything has to be perfect. This can lead to excessive cleaning.
+
+### Post traumatic stress disorder
+Post traumatic stress disorder (PTSD) is
+an anxiety disorder that is caused
+by a traumatic event such as sexual abuse, physical abuse, rape, torture, war, migration or bullying.
+
+PTSD is one of the most problematic
+psychiatric disorders because it is
+directly related to memory which in turn is linked to cognition.
