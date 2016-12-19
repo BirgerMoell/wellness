@@ -14,13 +14,43 @@ Actions give us the momentum we need to move forward in our lives. It is often e
 
 ## Common tips for dealing with negative thoughts and emotions
 
+## Spend time with friends and family
+Supportive friends will and can help you through a touch time. When you aren't feeling good, reach out to
+people you can trust.
+
+Often when we are feeling sad we hesitate to reach out. Understand that all humans feel negative emotions so when you speak about negative things you have experienced you are talking about things that all of us can relate to.
+
 ## Writing
 
 When we write we form a feedback loop from our mind which helps us let go of negative events and strengthen positive memories.
 
 ## Art
 
-Art is a way to explore things within your unconscious mind. It is a therapeutic process that can help you overcome traumatic experiences and help us overcome low mood and remain happy. 
+Art is a way to explore things within your unconscious mind. It is a therapeutic process that can help you overcome traumatic experiences and help us overcome low mood and remain happy.
+
+## Mental health problems
+
+Psychiatry is a discipline that helps
+diagnose mental health problems by
+looking at symptoms and determining
+if you have enough symptoms to have a diagnosis. Once diagnosed different methods are used to treat
+these disorders.
+
+Psychiatry is not an exact science and regularly faces criticism.
+
+The most common criticism relates
+to the fact that psychiatric meditation might not always help for the disorders they aim to treat.
+
+This is perhaps true but there are few alternatives because therapists are so few compared to the need for psychiatric treatment.
+
+A more relevant criticism might be
+that both negative and positive emotions are a regular part of life.
+That mental health is more similar to physical health where we need to make a continous effort to stay in shape.
+
+Most individuals experience being a bit crazy and sane throughout their life.
+
+The goal shouldn't then be to always strive to never be crazy but instead to learn what to do when you experience negative emotions and to learn that through good support we can all overcome mental health problems.
+
 
 ## Depression
 One of the most common mental
