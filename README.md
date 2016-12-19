@@ -13,6 +13,16 @@ health problems is depression.
 It affects approximately 30% of
 all adults in the world.
 
+Symptoms of depression include low mood, negative thoughts and thoughts of suicide.
+
+Depression is a state where the individual suffering believe that
+the way they view the world and themselves is correct.
+
+Depression is present in all cultures. Risk factors include, social isolation, lack of physical exercise, bullying, alcohol or drug abuse, anxiety disorders, personality disorders and unemployment.
+
+The most common treatments for depression is SSRI medication (antidepressants) and behavioral activation (therapy). Physical exercise and mindfulness meditation
+has also been shown to be good ways to cope with depression. 
+
 ## Anxiety disorders
 Anxiety disorders can be thought
 of as a collection of disorders
@@ -76,4 +86,4 @@ Most people often check things to a
 certain degree. Before we travel
 we often check our passport even though we are fairly certain that we have our passport with us.
 
-Other forms of OCD are related to perfectionism and the idea that everything has to be perfect. This can lead to excessive cleaning. 
+Other forms of OCD are related to perfectionism and the idea that everything has to be perfect. This can lead to excessive cleaning.
