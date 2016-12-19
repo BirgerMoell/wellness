@@ -6,6 +6,11 @@ This is a collection of resources relating to mental health.
 The goal is to give a complete list
 of ways to deal with any mental health problem.
 
+Above all else there is one guiding principle that will help you feel well.
+
+Act.
+
+Actions give us the momentum we need to move forward in our lives. It is often easier to change our course once we have started an action than it is to get started. 
 
 ## Depression
 One of the most common mental
@@ -127,4 +132,4 @@ they have fewer negative memories and better ways to cope with negative emotions
 
 Life is fundamentally unfair. This sucks but it is something that you have to accept.
 
-At the same time, everyone who made progress in any field made it in the same way. By their actions. 
+At the same time, everyone who made progress in any field made it in the same way. By their actions.
