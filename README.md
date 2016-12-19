@@ -15,7 +15,7 @@ Actions give us the momentum we need to move forward in our lives. It is often e
 ## Common tips for dealing with negative thoughts and emotions
 
 ## Spend time with friends and family
-Supportive friends will and can help you through a touch time. When you aren't feeling good, reach out to
+Supportive friends and family will and can help you through a tough time. When you aren't feeling good, reach out to
 people you can trust.
 
 Often when we are feeling sad we hesitate to reach out. Understand that all humans feel negative emotions so when you speak about negative things you have experienced you are talking about things that all of us can relate to.
@@ -38,7 +38,7 @@ these disorders.
 
 Psychiatry is not an exact science and regularly faces criticism.
 
-The most common criticism relates
+The most severe criticism relates
 to the fact that psychiatric meditation might not always help for the disorders they aim to treat.
 
 This is perhaps true but there are few alternatives because therapists are so few compared to the need for psychiatric treatment.
@@ -51,12 +51,14 @@ Most individuals experience being a bit crazy and sane throughout their life.
 
 The goal shouldn't then be to always strive to never be crazy but instead to learn what to do when you experience negative emotions and to learn that through good support we can all overcome mental health problems.
 
+Another criticism relates to the fact that diagnosing someone
+as having a disorder is helpful for treatment but also risks the patient becoming stigmatized in society and struggle to overcome their disorder because they falsely believe it is a permanent condition.
 
 ## Depression
 One of the most common mental
 health problems is depression.
 It affects approximately 30% of
-all adults in the world.
+all adults in the world. We have all experienced low mood and depression is a longer period of low mood that is more severe than just feeling sad.
 
 Symptoms of depression include low mood, negative thoughts and thoughts of suicide.
 
