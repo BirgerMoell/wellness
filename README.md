@@ -10,7 +10,17 @@ Above all else there is one guiding principle that will help you feel well.
 
 Act.
 
-Actions give us the momentum we need to move forward in our lives. It is often easier to change our course once we have started an action than it is to get started. 
+Actions give us the momentum we need to move forward in our lives. It is often easier to change our course once we have started an action than it is to get started.
+
+## Common tips for dealing with negative thoughts and emotions
+
+## Writing
+
+When we write we form a feedback loop from our mind which helps us let go of negative events and strengthen positive memories.
+
+## Art
+
+Art is a way to explore things within your unconscious mind. It is a therapeutic process that can help you overcome traumatic experiences and help us overcome low mood and remain happy. 
 
 ## Depression
 One of the most common mental
