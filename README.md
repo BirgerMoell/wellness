@@ -14,6 +14,17 @@ Actions give us the momentum we need to move forward in our lives. It is often e
 
 ## Common tips for dealing with negative thoughts and emotions
 
+## View mental health the same way you view physical health
+The body and the mind affect each other all the time. So in order to
+have good mental health it is important to take care of your physical self.
+
+Another thing to remember is that having good mental health is an act. In the same way as you need to keep
+exercising to maintain good physical health you also need to maintain good
+mental health over time.
+
+If you stop doing the things you
+need to feel calm and happy you will stop feeling calm or happy. 
+
 ## Spend time with friends and family
 Supportive friends and family will and can help you through a tough time. When you aren't feeling good, reach out to
 people you can trust.
