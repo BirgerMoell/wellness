@@ -23,7 +23,7 @@ exercising to maintain good physical health you also need to maintain good
 mental health over time.
 
 If you stop doing the things you
-need to feel calm and happy you will stop feeling calm or happy. 
+need to feel calm and happy you will stop feeling calm or happy.
 
 ## Spend time with friends and family
 Supportive friends and family will and can help you through a tough time. When you aren't feeling good, reach out to
@@ -64,6 +64,10 @@ The goal shouldn't then be to always strive to never be crazy but instead to lea
 
 Another criticism relates to the fact that diagnosing someone
 as having a disorder is helpful for treatment but also risks the patient becoming stigmatized in society and struggle to overcome their disorder because they falsely believe it is a permanent condition.
+
+Everything is temporary and you can overcome any mental health problem. However to do this you might need to do a lot of things that you might fear or have no desire to do.
+
+Overcoming mental health problems is hard. At the same time. It is not impossible and overcoming a problem has the potential to improve your mental health for your entire life. 
 
 ## Depression
 One of the most common mental
