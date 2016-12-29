@@ -190,3 +190,8 @@ they have fewer negative memories and better ways to cope with negative emotions
 Life is fundamentally unfair. This sucks but it is something that you have to accept.
 
 At the same time, everyone who made progress in any field made it in the same way. By their actions.
+
+#Resources
+Links to interesting sites and such.
+- [__The School of Life__](https://www.theschooloflife.com/) - Provides different views on all aspects of life. "Developing Emotional Entelligence"
+- [__BlueCall__](http://bluecallapp.com/) - Make anonymous phonecalls and lighten your heart by talking to a volunteer or a mentor 
